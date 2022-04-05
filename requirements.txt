@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+
+# Base ----------------------------------------
+torch
+nltk
+json
+argparse
+numpy
+tqdm
+os
