@@ -1,0 +1,9 @@
+{
+  "data_path": "C:/Users/Zack's PC/Documents/UK Courses/CS 460/Assignment 4/data/tiny-shakespeare.txt",
+  "model_path": "C:/Users/Zack's PC/Documents/UK Courses/CS 460/Assignment 4/models/char_model.pth",
+  "hidden_size": 256,
+  "num_layers": 3,
+  "seq_len": 500,
+  "device": "cuda",
+  "primer": "QUEEN:"
+}

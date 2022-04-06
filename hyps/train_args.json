@@ -1,0 +1,11 @@
+{
+  "data_path": "path/to/data/file.txt",
+  "save_path": "path/to/models/model.pth",
+  "hidden_size": 256,
+  "num_layers": 3,
+  "seq_len": 200,
+  "lr": 0.005,
+  "epochs": 50,
+  "val_size": 100,
+  "device": "cuda"
+}
